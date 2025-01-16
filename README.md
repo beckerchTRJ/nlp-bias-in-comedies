@@ -12,6 +12,7 @@ root/
 ├── data/                 # Directory for datasets and preprocessed data
 ├── notebooks/            # Jupyter notebooks for exploration and analysis
 ├── results/              # Outputs, metrics, and visualizations
+├── paper.pdf             # Full write-up of the project
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
 ├── .gitignore            # Files to exclude from version control
