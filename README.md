@@ -27,8 +27,7 @@ Data files are not included in this repository but can be accessed as follows:
   - [Stereoset](https://huggingface.co/datasets/McGill-NLP/stereoset): Dataset focusing on gender, profession, race, and religion bias.
   - [NewsMediaBias](https://huggingface.co/datasets/newsmediabias/news-bias-full-data/blob/main/train.csv): Tweets labeled for neutrality.
 - **Scripts for Data Access**:
-  - Use the provided `scripts/download_data.py` to download and preprocess datasets.
-  - Place preprocessed data in the `data/` directory.
+  - Scripts are all sourced from publically available texts. You can find them in the data folder.
 
 ---
 
@@ -71,12 +70,6 @@ Data files are not included in this repository but can be accessed as follows:
    jupyter notebook
    ```
 2. Navigate to `notebooks/` and select the desired notebook.
-
-### Running Scripts
-Execute scripts directly from the `scripts/` directory, for example:
-```bash
-python scripts/process_data.py
-```
 
 ---
 
