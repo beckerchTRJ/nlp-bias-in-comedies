@@ -8,6 +8,8 @@
 
 ![Distribution of predicted bias types across comedy scripts](results/script_prediction_distribution_svm.png)
 
+**In plain terms:** we taught software to recognize sentences that express a stereotype and to say what kind it is (gender, race, religion, and so on), using public collections of examples that people had already labeled. The best model labeled 95% of unseen test sentences correctly. We then ran the models over 21 comedy film scripts to see which kinds of stereotype come up most. The script results are exploratory, since nobody has hand-labeled the scripts to check them against.
+
 ---
 
 ## Data
